@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @kshitiz2811
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-kshitiz2811/kshitiz2811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m Kshitiz tiwari
+- 👀 I’m interested in making program &
+- project with help of coding with C,
+- C++ & Python language. 
+- 🌱 I’m currently learning AI, AI tools & Chat GPTef
+- 💞️ I’m looking to work  with a corporate company so
+- that I can pursue my dreams in life and in corporate
+- life  their  are  several  benefits  like  Stability
+- and  Security,  Career   Development  Opportunities,
+- Learning  and  Skill  Development,  Structured  Work
+- Environment, Networking Opportunities and etc. 
+- 📫 How to reach me, you can contact me through
+- Gmail - kshitiztiwari60@gmail.com
+- Phone no. - +916367592150
